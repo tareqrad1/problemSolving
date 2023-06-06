@@ -13,3 +13,4 @@ function indexTow(array) {
     return "we found the index " + array.indexOf('tareq');
 }
 console.log(indexTow(['shadi','sabreen','yaz','areeman','mohammed','tareq']));
+console.log(indexTow(['shadi','sabreen','yaz','areeman','mohammed','tareq']));
