@@ -15,3 +15,17 @@ for(let i=0; i<arr.length; i++) {
     }
 }
 console.log(sum);
+// here sum even number only
+
+
+
+let y = 0
+arr.filter((num) => {
+    return num
+}).reduce((prev,next) => {
+    return  y = prev + next
+})
+console.log(y);
+
+// here sum all number 
+
